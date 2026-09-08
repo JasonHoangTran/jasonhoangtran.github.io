@@ -1,2 +1,3 @@
 # jasonhoangtran.github.io
-A website that displays my resume and projects
+A website that displays my resume and projects.
+Currently developing a hotel operations request tracker.
